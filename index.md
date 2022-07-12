@@ -58,3 +58,6 @@ I've also designed (not launched) an NFT collection and played around and made m
 - [Was GaryVee Right? Mark Zuckerberg Announces NFTs on Instagram](https://www.techtimes.com/articles/273039/20220316/was-garyvee-right-mark-zuckerberg-announces-nfts-on-instagram.htm)
 
 - [What is Azuki NFT? Anime-Inspired Metaverse Brand](https://www.metaroids.com/learn/what-is-azuki-nft/)
+
+
+# [GO BACK TO MAIN PAGE](https://writerzzub.github.io/)
