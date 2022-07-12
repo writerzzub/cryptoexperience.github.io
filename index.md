@@ -2,7 +2,7 @@
 
 I'm one of the fortunate ones when it comes to crypto. Let's just say crypto helped me pay my downpayment on a house.
 
-I've also designed (not launched) an NFT collection and played around and made my own crypto called [oHoHo](https://bscscan.com/token/0x15298CC571979A3705A16ec008d0Ca1CC4BB1351) or JoseMariChristmas for... yeah... Christmas.
+I've also designed (not launched) an NFT collection and played around and made my own crypto called [HoHoHo](https://bscscan.com/token/0x15298CC571979A3705A16ec008d0Ca1CC4BB1351) or JoseMariChristmas for... yeah... Christmas.
 
 ### Here's my general Crypto experience:
 
