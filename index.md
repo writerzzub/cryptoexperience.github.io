@@ -12,14 +12,18 @@ I've also designed (not launched) an NFT collection and played around and made m
 
 - [Elon Musk Reacts to the Theory that 'Crypto Uses too much Energy' With Explanation of Hypocrisy](https://www.techtimes.com/articles/259727/20210430/elon-musk-reacts-to-theory-that-crypto-uses-too-much-energy-with-explanation-of-hypocrisy.htm)
 
-- [Could Catecoin Be The New Shiba Inu Killer?](https://www.techvisibility.com/2021/10/31/could-catecoin-be-the-new-shiba-inu-killer/)
+- [Wikipedia Reference](https://en.wikipedia.org/wiki/Vitalik_Buterin) for Vitalik Buterin under Urian B.: [Binance Announces $10 Million Donation to Ukraine: Ethereum Creator Vitalik Announces UkraineDAO]((https://www.techtimes.com/articles/272352/20220227/breaking-binance-announces-10-million-donation-ukraine-ethereum-creator-vitalik.htm))
+
+- [Crypto Asset Recovery](https://cryptoassetrecovery.com/press) cited my TechTimes article, written by Urian B. among Hypebeast, Market Insider, BBC, The Block, Venture Beat, etc.: [Father Son Hacker Duo are On Quest to Help People Get Back Their Missing Crypto After Forgotten Wallet Passwords](https://www.techtimes.com/articles/265583/20210919/father-son-hacker-duo-are-on-quest-to-help-people-get-back-their-missing-crypto-after-forgotten-wallet-passwords.htm)
+
+- [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article alongside Bloomberg, Forbes, Bitcoin Magazine, etc.:  
 
 
 #### Blockchain
 
 - [$155 Million Worth of $WBNB Put Into Alameda Research What are They Investing in?](https://www.techtimes.com/articles/265046/20210906/crypto-watch-155-million-worth-of-wbnb-put-into-alameda-research-what-are-they-investing-in.htm)
 
-- [Whales Control 94% of All ADA Supply Only 10% of Wealthiest Cardano Addresses](https://cardanofeed.com/whales-control-94-of-all-ada-supply-only-10-of-wealthiest-cardano-addresses-27631.html)
+- Cardanofeed shared my article: [Whales Control 94% of All ADA Supply Only 10% of Wealthiest Cardano Addresses](https://cardanofeed.com/whales-control-94-of-all-ada-supply-only-10-of-wealthiest-cardano-addresses-27631.html)
 
 - [Breaking: Harmony Shard 0 Stopped Working for 7 Hours Multiple Propagation Issues Caused by Heavy Spam Traffic](https://www.techtimes.com/articles/270569/20220114/breaking-harmony-shard-0-stopped-working-7-hours-multiple-propagation.htm)
 
@@ -58,6 +62,18 @@ I've also designed (not launched) an NFT collection and played around and made m
 - [Was GaryVee Right? Mark Zuckerberg Announces NFTs on Instagram](https://www.techtimes.com/articles/273039/20220316/was-garyvee-right-mark-zuckerberg-announces-nfts-on-instagram.htm)
 
 - [What is Azuki NFT? Anime-Inspired Metaverse Brand](https://www.metaroids.com/learn/what-is-azuki-nft/)
+
+- [NFT Digital Art Trend: How Cryptocurrency Is Making Millionaires Out of Digital Artists](https://www.itechpost.com/articles/104888/20210303/nft-digital-art-trend-cryptocurrency-making-millionaires-out-artists.htm)
+
+#### DeFi
+
+- [How to Bridge Ethereum to BNB Chain and Vice Versa: A Complete Guide](https://metaroids.com/learn/how-to-bridge-ethereum-to-bnb-chain-and-vice-versa-a-complete-guide/)
+
+- [How DeFi Gaming Works: Making Money from Playing Metaverse Games](https://metaroids.com/learn/how-defi-gaming-works-making-money-from-playing-metaverse-games/)
+
+- [Arbitrage 101: Is Crypto Arbitrage Really Profitable?](https://metaroids.com/learn/arbitrage-101-is-crypto-arbitrage-really-profitable/)
+
+- [Yield Farming 101: Why the 1,000,000% APY is a Lie](https://metaroids.com/learn/yield-farming-101-why-the-1000000-apy-is-a-lie/)
 
 
 # [GO BACK TO MAIN PAGE](https://writerzzub.github.io/)
