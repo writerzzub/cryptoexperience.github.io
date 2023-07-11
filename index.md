@@ -14,9 +14,9 @@ I've also designed (not launched) an NFT collection and played around and made m
 
 - [Wikipedia Reference](https://en.wikipedia.org/wiki/Vitalik_Buterin) for Vitalik Buterin under Urian B.: [Binance Announces $10 Million Donation to Ukraine: Ethereum Creator Vitalik Announces UkraineDAO]((https://www.techtimes.com/articles/272352/20220227/breaking-binance-announces-10-million-donation-ukraine-ethereum-creator-vitalik.htm))
 
-- [Crypto Asset Recovery](https://cryptoassetrecovery.com/press) cited my TechTimes article, written by Urian B. among Hypebeast, Market Insider, BBC, The Block, Venture Beat, etc.: [Father Son Hacker Duo are On Quest to Help People Get Back Their Missing Crypto After Forgotten Wallet Passwords](https://www.techtimes.com/articles/265583/20210919/father-son-hacker-duo-are-on-quest-to-help-people-get-back-their-missing-crypto-after-forgotten-wallet-passwords.htm)
+- [Crypto Asset Recovery](https://cryptoassetrecovery.com/press) cited my article under Urian B. among Hypebeast, Market Insider, BBC, The Block, Venture Beat, etc.: [Father Son Hacker Duo are On Quest to Help People Get Back Their Missing Crypto After Forgotten Wallet Passwords](https://www.techtimes.com/articles/265583/20210919/father-son-hacker-duo-are-on-quest-to-help-people-get-back-their-missing-crypto-after-forgotten-wallet-passwords.htm)
 
-- [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article alongside Bloomberg, Forbes, Bitcoin Magazine, etc.:  
+- [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article under Urian B. alongside Bloomberg, Forbes, Bitcoin Magazine, etc.: [Crypto Watch - $155 Million Worth of $WBNB Put Into Alameda Research | What are They Investing in?](https://www.techtimes.com/articles/265046/20210906/crypto-watch-155-million-worth-of-wbnb-put-into-alameda-research-what-are-they-investing-in.htm) 
 
 
 #### Blockchain
