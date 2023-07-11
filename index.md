@@ -6,7 +6,7 @@ I've also designed (not launched) an NFT collection and played around and made m
 
 ### Here's my general Crypto experience:
 
-#### GeneralCRYPTO
+#### General CRYPTO
 
 - [Crypto Whale 'Confirms' Bear Market Says Won't Buy Until $10K Price Range](https://www.techtimes.com/articles/265731/20210922/crypto-whale-confirms-bear-market-says-wont-buy-until-10k-price-range.htm)
 
