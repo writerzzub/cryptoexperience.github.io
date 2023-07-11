@@ -16,7 +16,7 @@ I've also designed (not launched) an NFT collection and played around and made m
 
 - [Crypto Asset Recovery](https://cryptoassetrecovery.com/press) cited my article under Urian B. among Hypebeast, Market Insider, BBC, The Block, Venture Beat, etc.: [Father Son Hacker Duo are On Quest to Help People Get Back Their Missing Crypto After Forgotten Wallet Passwords](https://www.techtimes.com/articles/265583/20210919/father-son-hacker-duo-are-on-quest-to-help-people-get-back-their-missing-crypto-after-forgotten-wallet-passwords.htm)
 
-- [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article under Urian B. alongside Bloomberg, Forbes, Bitcoin Magazine, etc.: [Crypto Watch - $155 Million Worth of $WBNB Put Into Alameda Research | What are They Investing in?](https://www.techtimes.com/articles/265046/20210906/crypto-watch-155-million-worth-of-wbnb-put-into-alameda-research-what-are-they-investing-in.htm) 
+- [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article under Urian B. alongside Bloomberg, Forbes, etc.: [Crypto Watch - $155 Million Worth of $WBNB Put Into Alameda Research | What are They Investing in?](https://www.techtimes.com/articles/265046/20210906/crypto-watch-155-million-worth-of-wbnb-put-into-alameda-research-what-are-they-investing-in.htm) 
 
 
 #### Blockchain
