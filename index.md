@@ -8,6 +8,7 @@ I've also designed (not launched) an NFT collection and played around and made m
 
 #### Politics
 - [The Legality Behind Pavel Durov’s Arrest](https://telonews.medium.com/the-legality-behind-pavel-durovs-arrest-8b61cf2d1e5c)
+- [French Authorities Are Also Going After Pavel Durov’s Brother, Nikolai](https://telonews.medium.com/dr-nikolai-durov-the-other-genius-behind-telegram-7c0bce3a4d9e)
 - [Donald Trump VS. RFK Jr.: Who Is the True Bitcoin Candidate?](https://telonews.medium.com/donald-trump-vs-rfk-jr-who-is-the-true-bitcoin-candidate-62f9f3e9e74b)
 - [The Venezuelan Government Officially Blocks Binance](https://telonews.medium.com/the-venezuelan-government-officially-blocks-binance-c5dac2eb416b)
 - [Singapore’s new PM Lawrence Wong to be sworn in with cabinet members: Who’s pro-crypto?](https://telonews.medium.com/singapores-new-pm-lawrence-wong-to-be-sworn-in-with-cabinet-members-who-s-pro-crypto-845dfabe4016)
