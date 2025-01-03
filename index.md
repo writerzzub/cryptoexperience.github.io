@@ -14,12 +14,11 @@ I've also designed (not launched) an NFT collection and played around and made m
 - [Singapore’s new PM Lawrence Wong to be sworn in with cabinet members: Who’s pro-crypto?](https://telonews.medium.com/singapores-new-pm-lawrence-wong-to-be-sworn-in-with-cabinet-members-who-s-pro-crypto-845dfabe4016)
 
 #### Research
+- [Macroeconomics of Bitcoin’s Fall to $50,000](https://telonews.medium.com/macroeconomics-of-bitcoins-fall-to-52-500-bb4cf37c33e4)
 - [A compilation of CZ’s resistance to adversity](https://telonews.medium.com/a-compilation-of-czs-resistance-to-adversity-8fad60402ff7)
-- [Elon Musk Reacts to the Theory that 'Crypto Uses too much Energy' With Explanation of Hypocrisy](https://www.techtimes.com/articles/259727/20210430/elon-musk-reacts-to-theory-that-crypto-uses-too-much-energy-with-explanation-of-hypocrisy.htm)
 - [Golden.com](https://golden.com/wiki/Alameda_Research-9944XGD) shared my article under Urian B. alongside Bloomberg, Forbes, etc.: [Crypto Watch - $155 Million Worth of $WBNB Put Into Alameda Research: What are They Investing in?](https://www.techtimes.com/articles/265046/20210906/crypto-watch-155-million-worth-of-wbnb-put-into-alameda-research-what-are-they-investing-in.htm)
 - Cardanofeed shared my article: [Whales Control 94% of All ADA Supply Only 10% of Wealthiest Cardano Addresses](https://cardanofeed.com/whales-control-94-of-all-ada-supply-only-10-of-wealthiest-cardano-addresses-27631.html)
 - [NFT Digital Art Trend: How Cryptocurrency Is Making Millionaires Out of Digital Artists](https://www.itechpost.com/articles/104888/20210303/nft-digital-art-trend-cryptocurrency-making-millionaires-out-artists.htm)
-- [Book in 1997 Predicted Digital Currency, Metaverse, Remote Work, Digital Banking, and More 'The Sovereign Individual'](https://www.techtimes.com/articles/270028/20220104/book-in-1997-predicted-digital-currency-metaverse-remote-work-digital-banking-and-more-the-sovereign-individual.htm)
 
 #### News
 - [Crypto Asset Recovery](https://cryptoassetrecovery.com/press) cited my article under Urian B. among Hypebeast, Market Insider, BBC, The Block, Venture Beat, etc.: [Father Son Hacker Duo are On Quest to Help People Get Back Their Missing Crypto After Forgotten Wallet Passwords](https://www.techtimes.com/articles/265583/20210919/father-son-hacker-duo-are-on-quest-to-help-people-get-back-their-missing-crypto-after-forgotten-wallet-passwords.htm)
